@@ -1,0 +1,24 @@
+====================================
+      WORD FREQUENCY SUMMARY        
+====================================
+in                   : 1
+hashset              : 1
+is                   : 1
+language             : 1
+arraylist            : 1
+an                   : 1
+filereader           : 1
+java                 : 3
+framework            : 1
+file                 : 1
+collections          : 1
+provides             : 1
+and                  : 2
+handling             : 1
+uses                 : 1
+oriented             : 1
+hashmap              : 1
+programming          : 1
+filewriter           : 1
+object               : 1
+====================================
